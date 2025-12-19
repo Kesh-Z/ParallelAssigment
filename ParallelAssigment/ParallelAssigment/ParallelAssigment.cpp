@@ -4,7 +4,7 @@
 #include <omp.h>
 using namespace std;
 // ================== PARAMETERS ==================
-const int N = 1000; // matrix size
+const int N = 500; // matrix size
 const double omega = 1.8; // relaxation parameter
 const double tol = 1e-6; // convergence tolerance
 const int max_iter = 50000; // max iterations
